@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "org.payroll.overtimeEnabled",
+    "type": "java.lang.String",
+    "description": "A description for 'org.payroll.overtimeEnabled'"
+  },
+  {
+    "name": "org.payroll.departments",
+    "type": "java.lang.String",
+    "description": "A description for 'org.payroll.departments'"
+  },
+  {
+    "name": "org.payroll.currency",
+    "type": "java.lang.String",
+    "description": "A description for 'org.payroll.currency'"
+  }
+]}{
+    "name": "org.payroll.taxRate",
+    "type": "java.lang.String",
+    "description": "A description for 'org.payroll.taxRate'"
+  }
+]}{
+    "name": "org.payroll.salaryBands",
+    "type": "java.lang.String",
+    "description": "A description for 'org.payroll.salaryBands'"
+  }
+]}{
+    "name": "org.payroll.taxRate",
+    "type": "java.lang.String",
+    "description": "A description for 'org.payroll.taxRate'"
+  }
+]}{
+    "name": "org.payroll.salaryBands",
+    "type": "java.lang.String",
+    "description": "A description for 'org.payroll.salaryBands'"
+  }
+]}
